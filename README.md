@@ -71,11 +71,6 @@ If you would like to improve this project, feel free to submit a pull request or
 
 ---
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
-
 ## Credits
 - Created with Python and Tkinter.
 - Location data powered by [Geopy](https://geopy.readthedocs.io/).
